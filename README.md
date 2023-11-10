@@ -1,4 +1,4 @@
 # lab8
 This is my website 
 
-*[link to the website](https://ohitshann.github.io/lab7/)*
+*[link to the website](https://ohitshann.github.io/lab8/)*
